@@ -21,9 +21,14 @@ This project is about a Python-based Tic Tac Toe game with an AI opponent. The g
 
 <img width="249" alt="Screenshot 2024-03-15 213711" src="https://github.com/shrutijaiswal2905/CODSOFT/assets/157979575/21f6f931-5879-4d5e-9819-95e567e39864">
 
-# TASK-2:   FACE DETECTION AND RECOGNITION SYSTEM
+_____________________________________________________________________________________________________________________________
+
+# TASK-5:   FACE DETECTION AND RECOGNITION SYSTEM
 
 This project is about a face detection and recognition system implemented using Python and OpenCV. The system utilizes the Haar cascade classifier to detect faces in real-time video streams from a webcam. Upon detection, the system draws bounding boxes around the detected faces. It serves as a foundational project for understanding computer vision techniques and can be extended for facial recognition applications by integrating with face recognition libraries such as OpenCV's face recognition module. The system offers real-time face detection and is suitable for educational purposes, research, and development of facial recognition systems.
+
+<p align="center">
+<img width="603" alt="Screenshot 2024-03-15 224104" src="https://github.com/shrutijaiswal2905/CODSOFT/assets/157979575/6bed812e-224d-4090-b068-d187eaf00113"></p>
 
 
 
